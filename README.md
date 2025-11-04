@@ -45,3 +45,6 @@ Used **KNeighborsClassifier** from `sklearn.neighbors`:
 ```python
 knn = KNeighborsClassifier(n_neighbors=5)
 knn.fit(X_train, y_train)
+
+## 📂 Dataset
+Download the dataset from [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
